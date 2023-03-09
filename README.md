@@ -2,8 +2,6 @@
 
 ![preview](img/preview.png)
 
-## Joguinho básico!
-
 ## ⚙️Tecnologias
 
 - HTML
